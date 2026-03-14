@@ -10,7 +10,7 @@ The system analyzes resumes against job descriptions and produces structured ins
 
 ## 🚀 Live Demo
 
-https://hirelens-ai-kappa.vercel.app
+https://hirelens-ai-kappa.vercel.app/
 
 ---
 
