@@ -32,6 +32,32 @@ Job seekers often don't know:
 
 ---
 
+## ⚠️ API Limit Notice
+
+This project uses the Google Gemini API to analyze resumes and simulate ATS screening.
+
+Because the app currently runs on the **free API tier**, requests may sometimes reach the API rate limit.
+
+If this happens, you may see the message:
+
+API Rate Limit Exceeded
+
+To still explore the system and view the full analysis dashboard:
+
+👉 Click **"Try with Sample Resume"**
+
+This will load a **pre-generated demo analysis** so that all features can still be viewed, including:
+
+- ATS Match Score
+- Resume Strength Analysis
+- Recruiter Decision Simulation
+- Interview Probability
+- Improvement Suggestions
+
+This demo option ensures the platform can always be evaluated even when the API quota is temporarily exceeded.
+
+---
+
 ## 💡 Solution
 
 HireLens AI simulates the same evaluation pipeline used in modern hiring systems.
