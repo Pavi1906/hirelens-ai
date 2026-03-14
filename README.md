@@ -1,5 +1,3 @@
-
-```markdown
 # HireLens AI
 
 HireLens AI is an AI-powered resume analysis platform that simulates how modern Applicant Tracking Systems (ATS) and technical recruiters evaluate resumes.
@@ -113,24 +111,16 @@ Transforms weak resume bullet points into stronger professional statements.
 Example:
 
 Before:
-```
 
 Built a website for college project
 
-```
-
 After:
-```
 
 Developed a responsive web application using React and Node.js that improved student engagement by 40%.
-
-```
 
 ---
 
 ## 🏗 Architecture
-
-```
 
 Resume PDF
 ↓
@@ -143,8 +133,6 @@ ATS Keyword Matching
 Scoring Engine
 ↓
 Insights Dashboard
-
-```
 
 ---
 
@@ -174,52 +162,23 @@ Version Control
 
 Clone the repository:
 
-```
-
 git clone [https://github.com/Pavi1906/hirelens-ai.git](https://github.com/Pavi1906/hirelens-ai.git)
 cd hirelens-ai
 
-```
-
 Install dependencies:
-
-```
-
 npm install
 
-```
-
 Create environment file:
-
-```
-
 .env
 
-```
-
 Add your Gemini API key:
-
-```
-
 VITE_GEMINI_API_KEY=your_api_key_here
 
-```
-
 Run the development server:
-
-```
-
 npm run dev
 
-```
-
 Open in browser:
-
-```
-
 [http://localhost:3000](http://localhost:3000)
-
-```
 
 ---
 
@@ -227,17 +186,7 @@ Open in browser:
 
 Deploy using Vercel:
 
-```
-
 vercel --prod
-
-```
-
----
-
-## 📹 Demo Video
-
-(Add your Loom demo video link here)
 
 ---
 
@@ -253,5 +202,3 @@ https://github.com/Pavi1906
 ## 📜 License
 
 MIT License
-```
-
