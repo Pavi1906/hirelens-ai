@@ -14,6 +14,12 @@ https://hirelens-ai-kappa.vercel.app/
 
 ---
 
+##🚀 Demo Link
+
+https://drive.google.com/file/d/1DFGYBDY8wbKs9PjczPRs9k7D7WNgJtfn/view?usp=share_link
+
+---
+
 ## 🎯 Problem
 
 Recruiters spend only a few seconds scanning a resume.  
