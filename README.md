@@ -1,4 +1,3 @@
-Here is a **clean copy-paste `README.md`**. Just paste this into your `README.md` file.
 
 ```markdown
 # HireLens AI
